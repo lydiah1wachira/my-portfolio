@@ -18,6 +18,11 @@ img{
      border: 8px solid rgba(220, 220, 236, 0.7);
  }
 
+ .navbar-nav{
+     background-color:gold;
+     padding:8px;
+ }
+
 
 
 
