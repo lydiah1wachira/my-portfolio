@@ -5,7 +5,7 @@
 A portfolio landing page created using HTML, CSS and Bootstrap
 ## Setup/Installation Requirements
 * fork repository, then clone it to an empty folder in your computer
-* open the link on github pages as 
+* open this link https://lydiah1wachira.github.io/my-portfolio/ (view only, you will not be able to make any changes.)
 * 
 ## Known Bugs
 There are no known bugs in this webpage
